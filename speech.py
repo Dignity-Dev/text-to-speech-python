@@ -23,8 +23,7 @@ sen = """
 This section comprises an analysis of the data collected from the questionnaire administered 
 to the respondents. This study employed statistical techniques to determine the reliability and 
 normality of the data on student perception of impact of guidance and counselling service on career 
-choice of 
-secondary school students in Ogbomoso South Local Government area of Oyo State.
+choice of secondary school students..
 """
 
 engine.say(sen)
